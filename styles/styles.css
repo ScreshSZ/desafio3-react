@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+h1{
+    text-align: center;
+    margin: 20px;
+}
+
+body{
+    background-color: #222;
+    color: #fff;
+}
+
+.card{
+    width: 400px;
+    margin-left: 15px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, .6);
+    padding: 20px 0;
+    margin-top: 30px;
+}
+
+.card img{
+    width: 400px;
+    height: 400px;
+    object-fit: contain;
+}
+
+.card h2{
+ font-size: 22px;
+}
+
+.card p{
+     font-size: 18px;
+     margin: 15px 0;
+}
+
+.card button{
+   padding: 12px 36px;
+
+}

@@ -1,0 +1,10 @@
+.contenedorFlex{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.imagenCard{
+    margin: 10px 0;
+}
